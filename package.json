@@ -11,8 +11,7 @@
     "watch": "webpack --watch",
     "prep:major": "npm run build && npm version major",
     "prep:minor": "npm run build && npm version minor",
-    "prep:patch": "npm run build && npm version patch",
-    "preinstall": "npm run build"
+    "prep:patch": "npm run build && npm version patch"
   },
   "repository": {
     "type": "git",
